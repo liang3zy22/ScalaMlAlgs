@@ -14,7 +14,7 @@ object SparkUtil {
     HashMapDf
   }
 
-  def DfToList()={
+  def DfToList(InputDF: DataFrame)={
 
 
   }
